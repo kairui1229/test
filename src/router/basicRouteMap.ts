@@ -49,6 +49,7 @@ const routes:RouteRecordRaw[]=[
                 name:"total",
                 component:()=>import("@/views/operations/Total.vue")
             },
+            
             {
                 path:"/alarm",
                 name:"alarm",
